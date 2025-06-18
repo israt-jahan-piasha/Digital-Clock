@@ -1,0 +1,21 @@
+body{
+    background: url('./independence-day-bangladesh-illustration-is-26th-march_220772-288.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+#Clock{
+    font-size: 40px;
+    font-weight: bold;
+    color: beige;
+    background-color: rgba(181, 25, 25, 0.318);
+    border: 5px solid rgba(59, 170, 55, 0.305) ;
+    backdrop-filter: blur(5px);
+    padding: 35px 50px;
+    width: 400px;
+    text-align: center;
+    margin: 300px auto;
+    border-radius: 15px;
+}
